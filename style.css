@@ -1,33 +1,33 @@
 @charset "utf-8";
 /* CSS Document */
-body{background-color: #24A7C8;}
-#contenedor{background-color:#24A7C8;
+body{background-color: white;}
+#contenedor{background-color:white;
 	width: 1000px;
 	height: 1000px;
 	padding-top: 25px;
 	text-align: center;
 	font-family: Times New Roman;
 	margin: auto;
-	color: aliceblue;
-	border: blue 10px solid;
+	color: white;
+	border: #FFF500 10px solid;
 }
 
 header{
-	background-color:#24A7C8;
+	background-color:white;
 	width: 800px;
 	height: 282px;
 	margin:auto;
 	margin-top: 25px;
 	margin-bottom: 20px;
-	border: blue 5px solid;
+	border:#FFF500 5px solid;
 }
 
 
 nav{
-	background-color:#24A7C8;
+	background-color:white;
 	width: 80px;
 	height: 35px;
-	border:blue 5px solid;
+	border:#FFF500 5px solid;
 	margin: auto;
 	margin-bottom: 10px;
 	margin-top: 15px;
@@ -35,19 +35,20 @@ nav{
 section{
 		text-align: left;
 
-	background-color: #24A7C8;
+	background-color: white;
 width: 870px;
 height:400px;
 	margin:auto;
-	border:blue 5px solid;
+	border:#FFF500 5px solid;
 	margin-bottom: 15px;
 padding-top: 15px;}
 
 
 
-footer{background-color: #24A7C8;
+footer{background-color: white;
 width: 870px;
 height: 70px;
-	border:blue 5px solid ;
+
+	border:#FFF500 5px solid ;
 	margin: auto;
 	clear: both;}
